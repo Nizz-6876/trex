@@ -1,2 +1,2 @@
 # trex
-endless runner game made on javascript
+Chrome's trex game created using p5.play
